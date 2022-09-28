@@ -7,6 +7,8 @@ pyPlot uses the libraries:
 
 **matplotlib** - in order to do the graph drawing.
 
-Please do note that this is my first GitHub Repo and I am always lookign on ways to improve the code, and the repository itself. If you have any advice, please do let me know.
+I hope this program can be used as an alternative to more expensive data loggers, as a time effective way of graphing collected data.
 
-Have a great day! 🌞
+Please do note that this is my first GitHub Repo and I am always looking on ways to improve the code, and the repository itself. If you have any advice, please do let me know.
+
+Have a great day! 
