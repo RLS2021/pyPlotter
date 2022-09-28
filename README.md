@@ -1,7 +1,7 @@
 # pyPlot
 This is the repository for a python script I wrote, which draws graphs based on user input
 
-pyPlot uses the libraries:
+pyPlot uses the libraries:\n
 **numpy**-in order to create and store the arrays used to make the graph
 **matplotlib** - in order to do the graph drawing.
 
